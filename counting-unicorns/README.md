@@ -1,4 +1,4 @@
-### Problem Title: "Counting the Visible Unicorns in a Dense Forest v2"
+### Counting the Visible Unicorns in a Dense Forest v2
 
 ---
 
